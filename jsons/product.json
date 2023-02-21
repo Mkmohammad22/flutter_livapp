@@ -1,0 +1,15 @@
+{
+    "id": 1,
+    "title": "banana",
+    "data": "2023-01-22",
+    "image": "/products/R_2.jpg",
+    "marcket_price": 30,
+    "selling_price": 30,
+    "description": "bananaaaaaaaaaaaaaaaaaaaaaaaa",
+    "category": {
+        "id": 1,
+        "title": "Fruit",
+        "date": "2023-01-22"
+    },
+    "favorit": false
+}
